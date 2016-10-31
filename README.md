@@ -1,6 +1,10 @@
-Introduccion a Meteor
+Introducción a Meteor
 =====================
-Documentacion:
+
+Presentación:
+https://drive.google.com/open?id=1dVJ0W-jO3TY8lbwIBTF5ufQ622Fo8vNrNCvvjTSDJnc
+
+Documentación:
 http://docs.meteor.com/#/full/
 
 Tutorial:
